@@ -7,13 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-<<<<<<< HEAD
+
   "license": "ISC",
   "dependencies": {
     "line-reader": "^0.4.0",
     "node-couchdb": "^1.1.1"
-  }
-=======
+  },
   "license": "ISC"
->>>>>>> 6d36902fceddfe609ec55bb0d93b301596729b1c
+
 }
