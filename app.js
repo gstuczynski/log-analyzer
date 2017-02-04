@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const lineReader = require('line-reader');
 const NodeCouchDb = require('node-couchdb');
 
@@ -35,3 +36,6 @@ if(last){
     console.log("File Loaded");
 }
 })
+=======
+console.log("x");
+>>>>>>> 6d36902fceddfe609ec55bb0d93b301596729b1c
